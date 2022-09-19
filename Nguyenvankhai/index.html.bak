@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>CV Cá Nhân</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<main>
+		<header>
+		<img src="./img/logo.jpg">
+		<h1>@Nguyenvankhai</h1>
+	</header>
+	<ul>
+		<li>
+			<a href=""> <img src="./img/home.png" style="
+    width: 30px;
+    height: 30px;
+    padding-bottom: 10px;"
+    >Website</a>
+		</li>
+        
+		<li>
+			<a href="https://www.facebook.com/khai.nguyen.73113528/"><img src="./img/facebook.png"
+				style="
+    width: 30px;
+    height: 30px;
+    padding-bottom: 10px;"
+
+    >Facebook</a>
+		</li>
+
+		<li>
+			<a href="https://www.facebook.com/khai.nguyen.73113528/"><img src="./img/youtube.png"
+				style="
+    width: 30px;
+    height: 30px;
+    padding-bottom: 10px;"
+
+    >Youtube</a>
+		</li>
+	</ul>
+	<p class=p1> HỌ VÀ TÊN: NGUYỄN VĂN KHẢI </p>
+	<p> Giới thiệu bản thân: Đam mê công nghệ, luôn tìm kiếm và học thêm những công nghệ mới </p>
+	<p> Trường: ĐẠI HỌC CẦN THƠ </p>
+	<p> Chuyên Ngành: Công Nghệ Thông Tin K44</p>
+	<p> MSSV: C1800010 </p>
+	<p> Kỹ Năng:Designer, C++, C# HTML</p>
+	<p> Địa Chỉ: Trần Văn Thời, Cà Mau </p>
+	<p> Email: C1800010@student.ctu.edu.vn </p>
+	</main>
+	<p>Liên Hệ 0913830455</p>
+	<div class="cuoi">
+	</div>
+</body>
+</html>
